@@ -5,9 +5,7 @@ package com.qunar.flight.fuwu.data.cf.desrecommend
   */
 object DRConstant {
 
-  val ES_CLUSTER = "l-qesaasdatanodessd13.ops.cn2.qunar.com, l-qesaasdatanodessd49.ops.cn2.qunar.com, " +
-    "l-qesaasdatanodessd22.ops.cn2.qunar.com, l-qesaasdatanodessd33.ops.cn2.qunar.com," +
-    " l-qesaasdatanodessd29.ops.cn2.qunar.com, l-qesaasdatanodessd31.ops.cn2.qunar.com"
+  val ES_CLUSTER = "es-cluser"
 
   val ES_PORT = "17302"
   val LABEL_NAME = "避暑,草原,城市风光,地质,动植物园,购物,观光,海,红色旅游,户外,建筑,江河湖泊,教育,历史文化," +
